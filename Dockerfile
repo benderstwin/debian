@@ -1,2 +1,2 @@
-FROM Debian:7
+FROM debian:7
 MAINTAINER Bender77
